@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5b0312/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 玉音法事
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 00:16:12.517010'
+  source:
+    repository: kanripo
+    path: KR5b0312/KR5b0312_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:d5024679bf6e546e8bc3591c54d0c20ed77252e69545d14fa6ee2f11f0fef9ff

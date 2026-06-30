@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5b0312/krp/v1/juan/1
+seq: 1
+front:
+  text: 玉音法事卷上養一
+  hash: sha256:5baa3b381bce6a581b636e3da4f10966f2be71bf7484e7498a21da39e1c898a8
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5b0312_HFL_001-001a, image: hfl/0333/0333-004.png}
+body:
+  text: 步虛第一七十字步虛第三步虛第五五十字全闞步虛五十字空洞照道中不如舉舍字徑從元字舉起奉戒三啓第一三啓第二三啓第三啓堂頌敷齊頌亦名出堂頌大學仙焚詞山簡水簡土水簡四十字白鶴玉音法事卷上
+  hash: sha256:f1a09b8c514e0ab0604e67bc465e7b142b17379b52d9fb4ef5c3327d2fea07f2
+metadata:
+  title: 玉音法事
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 00:16:12.517010'
+  source:
+    repository: kanripo
+    path: KR5b0312/KR5b0312_001.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:65a5fe82d7f3d197844760131e58a6c8bfb9540f903aba348833c18f8ba5d7e8
