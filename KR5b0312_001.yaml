@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR5b0312_HFL_001-001a, image: hfl/0333/0333-004.png}
 body:
-  text: 步虛第一七十字步虛第三步虛第五五十字全闞步虛五十字空洞照道中不如舉舍字徑從元字舉起奉戒三啓第一三啓第二三啓第三啓堂頌敷齊頌亦名出堂頌大學仙焚詞山簡水簡土水簡四十字白鶴玉音法事卷上
-  hash: sha256:f1a09b8c514e0ab0604e67bc465e7b142b17379b52d9fb4ef5c3327d2fea07f2
+  text: 歩虛第一七十字步虛第三歩虚第五五十字全闞歩虚五十字空洞照道中不如擧舍字徑從元字擧起奉戒三啓第一三啓第二三啓第三啓堂頌敷齋頌亦名出堂頌大學仙焚詞山簡水簡土水簡四十字白鶴玉音法事卷上
+  hash: sha256:3660db483f5ba5002856a5341f991e55fff1a33edd821c2f54b2cf1076453af9
 metadata:
   title: 玉音法事
   edition:
@@ -23,4 +23,4 @@ metadata:
     YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
     HFL: http://img.kanripo.org/daoist/ztdz/
     WYG: http://img.kanripo.org/general/skqs/wyg/
-hash: sha256:65a5fe82d7f3d197844760131e58a6c8bfb9540f903aba348833c18f8ba5d7e8
+hash: sha256:4e17169b2b33d8703b8801f85b1798cd9e6d2d849684106c7e1d616412f2930a
